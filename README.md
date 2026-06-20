@@ -1,6 +1,6 @@
 # CMU Branch (`machine-learning/`)
 
-This branch contains my own independently written algorithms, case studies, code files, homework solutions, lecture notes, mathematical proofs, and project reports for courses I have taken at Carnegie Mellon University.
+This branch contains my own independently written algorithms, case studies, code files, exam solutions, homework solutions, lecture notes, mathematical proofs, and project reports for courses I have taken at Carnegie Mellon University.
 
 All material in this branch is included solely for personal record-keeping, professional portfolio documentation, and reproducibility of my own work.
 
