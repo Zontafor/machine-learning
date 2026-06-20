@@ -4,6 +4,8 @@ This branch contains my own independently written algorithms, case studies, code
 
 All material in this branch is included solely for personal record-keeping, professional portfolio documentation, and reproducibility of my own work.
 
+Please Note: As per the request by the instructor, certain course materials have been omitted.
+
 ---
 
 ## Academic Integrity and Respect for CMU Policy
